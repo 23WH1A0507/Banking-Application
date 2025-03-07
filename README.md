@@ -1,5 +1,5 @@
 # Banking-Application
-# Banking Application (Team Leader)
+
 
 ## Description
 
